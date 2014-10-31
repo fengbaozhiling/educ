@@ -1,0 +1,31 @@
+<div class="logintool clfix">
+	<div class="logintolinner f_l">
+		<div class="loginlitb_name">
+			<div class="loginlitb_topname"><span class="ico ico_araw">&nbsp;</span><span id="top_u_pic"><img class="pic_middle" uid="602639" src="http://www.epweike.net/data/avatar/default/man_middle.jpg" style="z-index: 1;"></span>&nbsp;任务管理</div>
+			<div style="display: none; top: 38px;" class="loginlitb_box">
+				<div class="afterlogin_task">
+					<ul>
+						<li style="border-top: medium none;"><a target="_blank" href="http://www.epweike.net/user-view-employer-op-task-opp-xsrw.html">&gt;&nbsp;&nbsp;我发布的任务</a></li>
+						<li><a target="_blank" href="http://www.epweike.net/user-view-witkey-op-task-opp-xsrw.html">&gt;&nbsp;&nbsp;我参加的任务</a></li>
+						<li><a target="_blank" href="http://www.epweike.net/index.php?do=user&amp;view=message">&gt;&nbsp;&nbsp;我的站内信<span id="messagecount_2">[20]</span></a></li>
+						<li style="border-bottom: medium none;"><a target="_blank" href="http://www.epweike.net/index.php?do=user&amp;view=witkey&amp;op=collect">&gt;&nbsp;&nbsp;收藏夹</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="logintolinner logintooset f_r">
+		<div class="loginlitb_name">
+			<div class="loginlitb_topname t_c"><span class="ico i-araw">&nbsp;</span>&nbsp;财务管理</div>
+			<div style="display: none; top: 38px;" class="loginlitb_box">
+				<div class="afterlogin_task">
+					<ul>
+						<li style="border-top: medium none;"><a target="_blank" href="http://www.epweike.net/index.php?do=user&amp;view=finance&amp;op=detail">&gt;&nbsp;&nbsp;财务明细</a></li>
+						<li><a target="_blank" href="http://www.epweike.net/index.php?do=user&amp;view=finance&amp;op=recharge">&gt;&nbsp;&nbsp;我要充值</a></li>
+						<li style="border-bottom: medium none;"><a target="_blank" href="http://www.epweike.net/index.php?do=user&amp;view=finance&amp;op=withdraw">&gt;&nbsp;&nbsp;我要提现</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>

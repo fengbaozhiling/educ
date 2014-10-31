@@ -1,0 +1,18 @@
+<div class="answer_box" id="answerBox">
+	<form name="course_answer_form" method="post" onsubmit="return EDUCAT.SubmitAnswer(this);">
+		<img class="fleft" src="/public/images/img6.jpg" width="40">
+		<textarea class="ftext" name="content" maxlen="200" nonum="1" placeholder="说说你的解答"></textarea>
+		<div class="blank6"></div>
+		<label class="current_btn mini_btn gray_btn f_r">
+			<input type="submit" value="回答" />
+		</label>
+		<input type="hidden" value="18" name="aid">
+		<div class="answer_page" id="answerPages" aid="18"> </div>
+	</form>
+	<div class="blank12"></div>
+	<div id="answerList">
+		<ul>
+		</ul>
+	</div>
+</div>
+<div class="clear"></div>

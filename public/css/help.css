@@ -1,0 +1,30 @@
+@charset "utf-8";
+/* CSS Document */
+
+.helpsider { width:270px; float:left;}
+.helpcont { width:890px; float:right;}
+
+
+.m-helpl { border:1px solid #efefef; padding:20px;}
+.m-helpl h2 { font-size:14px; margin-bottom:10px;}
+.m-helpl dl { padding-left:20px; display:none;}
+.m-helpl dl a.crent { font-weight:bold; color:#EB2626;}
+.m-helpl span i { vertical-align:-3px; margin-right:5px; }
+
+.m-hserch { border:1px solid #efefef; padding:20px; margin-bottom:30px;}
+.m-hserch .pic { padding:20px; }
+.m-hserch .pic i {font-size:50px; color:#2b95ff;}
+.m-hserch .form { padding-top:13px;}
+.m-hserch .form input { height:24px; line-height:24px; float:left; width:300px;}
+.m-hserch .form .btn { line-height:24px; float:left;  border-radius:0;}
+
+.m-hlist { border:1px solid #efefef; padding:20px;}
+.m-hlist li { height:30px; line-height:30px; padding-left:20px;}
+.m-hlist li a { color: #666; font-size:14px; white-space: nowrap;  padding-left: 15px; text-overflow: ellipsis; overflow: hidden; background: url(../images/libg.png) no-repeat left 6px; -o-transition: all 0.2s; -webkit-transition: all 0.2s; -moz-transition: all 0.2s; -ms-transition: all 0.2s; transition: all 0.2s; }
+.m-hlist li a:hover { background-position: left -19px; color: #E4393C }
+
+.m-hcont { border:1px solid #efefef; padding:30px;}
+.m-hcont h1 { text-align:center; margin-bottom:20px; font-size:20px; border-bottom:1px solid #efefef; padding:0 0 20px;}
+.m-hcont .date { color:#999; margin:10px auto; }
+.m-hcont .cont { font-size:14px; line-height:30px;}
+.m-hcont .ask { border:1px dotted #efefef; padding:20px; background:#f6fff9;}

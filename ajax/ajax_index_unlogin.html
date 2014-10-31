@@ -1,0 +1,41 @@
+<div class="logintool clfix">
+	<div class="logintolinner f_l">
+		<div class="loginlitb_name">
+			<div class="loginlitb_topname"> <span class="ico i-araw">&nbsp;</span> <img alt="会员登录" src="http://img14.weikeimg.com/tpl/default/theme/simple/img/2013/defalheid.jpg" original-title="">&nbsp;会员登录 </div>
+			<div style="display: none; top: 38px;" class="loginlitb_box"> <span class="c999" id="span_msg_tip"></span>
+				<div class="loginform">
+					<form action="/index.php?do=login" method="post" id="login_frm" name="login_frm">
+						<input type="hidden" name="handlekey" value="login_frm1">
+						<input type="hidden" name="hdn_refer" id="hdn_refer" value="">
+						<input type="hidden" name="logins" id="logins" value='0'>
+						<input type="hidden" name="jump_status" id="jump_status" value="1">
+						<div class="rowElem" >
+							<label class="txt">账&nbsp;号：</label>
+							<input class="txt_input"  type="text"  size="20"  tmp="login_account1" autocomplete="off" name="txt_account" onclick="$(this).removeClass('c999')" id="txt_account1" limit="required:true" msg="用户名不得为空" value=""  msgArea="span_msg_tip" />
+						</div>
+						<div class="rowElem" >
+							<label class="txt">密&nbsp;码：</label>
+							<input class="txt_input" type="password"  tmp="login_password1" name="pwd_password" id="pwd_password" maxlength="20" limit="required:true;len:2-20" msg="密码长度应为6-20位"  msgArea="span_msg_tip" />
+						</div>
+						<div class="rowElem">
+							<label class="txt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+							<button class="button blue" type="button" onclick="return user_login();" style=" "><span class="buttoniner">登录</span></button>
+							&nbsp;<a href="http://www.epweike.com/index.php?do=help&view=get_password" target="_blank" class="c666">忘记密码</a> </div>
+					</form>
+				</div>
+				<div class="logintother clfix">
+					<p>使用合作网站账号登录:</p>
+						<a style="background-position:0 0;" href="http://www.epweike.net/oauth_login-type-qq.html" rel="nofollow" target="_blank" title="QQ">&nbsp;</a>
+<a style="background-position:0 -16px;" href="http://www.epweike.net/oauth_login-type-sina.html" rel="nofollow" title="新浪微博">&nbsp;</a>
+<a style="background-position:0 -32px;" href="http://www.epweike.net/oauth_login-type-renren.html" rel="nofollow" title="人人网">&nbsp;</a>
+<a style="background-position:0 -48px;" href="http://www.epweike.net/oauth_login-type-netease.html" rel="nofollow" title="网易">&nbsp;</a>
+<a style="background-position:0 -96px;" href="http://www.epweike.net/oauth_login-type-douban.html" rel="nofollow" title="豆瓣">&nbsp;</a>
+					</div>
+			</div>
+		</div>
+	</div>
+	<a target="_self" href="http://www.epweike.com/register.html" class="albotton">免费注册</a>
+</div>
+<script type="text/javascript">
+
+</script>

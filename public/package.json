@@ -1,0 +1,29 @@
+{
+  "family": "educate",
+  "name": "educate",
+  "version": "1.0.0",
+  "description": "educat online",
+  "homepage": "https://github.com/fengbaozhiling/educat",
+  "author": "",
+  "maintainers": [
+    "zhongliangwen <zhongliangwenwx@163.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/fengbaozhiling/educat.git"
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "source": "js/src",
+    "output": [
+      "index.js",
+      "detail.js",
+      "forget.js",
+      "user.js",
+      "creat.js"
+    ],
+    "devAlias": {},
+    "engines": {}
+  }
+}

@@ -1,0 +1,3 @@
+<?php
+echo '{"status":1,"id":9,"html":"<div class=\"ltt_box cursor_move\">\n<strong>\u7ae0\u8282\uff1a\u6309\u65f6\u5230\u5c97\u6309\u65f6\u5230\u5c97\u5b89\u4e16\u9ad8<\/strong>\n<div class=\"ltt_btns\">\n<label class=\"current_btn mini_btn blue_btn edit_section_btn\" sid=\"9\" fullname=\"\u6309\u65f6\u5230\u5c97\u6309\u65f6\u5230\u5c97\u5b89\u4e16\u9ad8\"><input type=\"button\" value=\"\u7f16\u8f91\" \/><\/label>&nbsp;\n<label class=\"current_btn mini_btn disabled_btn remove_section_btn\" sid=\"9\"><input type=\"button\" value=\"\u5220\u9664\" \/><\/label>&nbsp;\n<label class=\"current_btn mini_btn green_btn add_vod_btn\" sid=\"9\"><input type=\"button\" value=\"\u6dfb\u52a0\u8bb2\u5ea7\" \/><\/label>\n<\/div>\n<\/div>"}'
+?>
